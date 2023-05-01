@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "https://example.com/chef001.jpg",
+        "picture": "https://www.discoverwalks.com/blog/wp-content/uploads/2022/10/720px-carlo_cracco_2011.jpg",
         "name": "Giuseppe Rossi",
         "years_of_experience": 15,
         "num_recipes": 10,
@@ -19,7 +19,7 @@
                 ],
                 "prep_time": "20 minutes",
                 "cook_time": "10 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg"
             },
             {
                 "id": 2,
@@ -34,7 +34,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "10-15 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://cdn.shopify.com/s/files/1/0624/9853/articles/20220211142645-margherita-9920.jpg?crop=center&height=915&v=1660843558&width=1200"
             },
             {
                 "id": 3,
@@ -51,7 +51,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "2-3 hours",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.simplyrecipes.com/thmb/2AjZWxY7oJ7jkMRtrSjtkQAtvQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2006__12__Osso-Buco-LEAD-5-a816159cbe9740a5b21f3c1e515f9da2.jpg"
             },
             {
                 "id": 4,
@@ -67,7 +67,7 @@
                 ],
                 "prep_time": "20 minutes",
                 "cook_time": "25 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://winedharma.com/wine-dharma/uploads/2020/10/Risotto-alla-Milanese-recipe-risotto-with-saffron-beef-marrow-Italian-recipe.jpg"
             },
             {
                 "id": 5,
@@ -83,7 +83,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "0 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/04/07/21412-tiramisu-ii-3x2-119.jpg"
             }
         ],
         "likes": 100,
@@ -91,7 +91,7 @@
     },
     {
         "id": 2,
-        "picture": "https://example.com/chef002.jpg",
+        "picture": "https://www.discoverwalks.com/blog/wp-content/uploads/2022/10/gino_dacampo_-_rochdale_feelgood_festival_2.jpg",
         "name": "Maria Hernandez",
         "years_of_experience": 8,
         "num_recipes": 12,
@@ -111,7 +111,7 @@
                 ],
                 "prep_time": "20 minutes",
                 "cook_time": "30 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.tavolartegusto.it/wp/wp-content/uploads/2018/01/Pasta-e-Fagioli-la-ricetta-originale-napoletana-cremosa-Ricetta-Pasta-e-Fagioli.jpg"
             },
             {
                 "id": 7,
@@ -126,7 +126,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "0 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.thespruceeats.com/thmb/2pjgFA7_nbZtlXr68BECvf6fO48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/caprese-salad-tomato-salad-2217097-hero-03-75a0b89b30aa4a52b10fe4fdd9abfeb5.jpg"
             },
             {
                 "id": 8,
@@ -141,7 +141,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "40 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.seriouseats.com/thmb/ILLeyKORbTnz3DsUKRrEoLSDJjQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__05__20150501-polenta-vicky-wasik-5-018e7507df9940f9b1d9cd0b5f67339b.jpg"
             },
             {
                 "id": 9,
@@ -156,7 +156,7 @@
                 ],
                 "prep_time": "20 minutes",
                 "cook_time": "10 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.giallozafferano.it/images/ricette/204/20401/foto_hd/hd650x433_wm.jpg"
             },
             {
                 "id": 10,
@@ -171,7 +171,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "30 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.momontimeout.com/wp-content/uploads/2021/04/churro-cannolis-square.jpeg"
             }
         ],
         "likes": 75,
@@ -179,7 +179,7 @@
     },
     {
         "id": 3,
-        "picture": "https://example.com/chef003.jpg",
+        "picture": "https://www.antonio-carluccio.com/wp-content/uploads/2019/10/Gennaro-Contaldo-845x563.jpg",
         "name": "Antonio Russo",
         "years_of_experience": 20,
         "num_recipes": 18,
@@ -197,7 +197,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "10 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.allrecipes.com/thmb/QSsjryxShEx1L6o0HLer1Nn4jwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/54165-balsamic-bruschetta-DDMFS-4x3-e2b55b5ca39b4c1783e524a2461634ea.jpg"
             },
             {
                 "id": 12,
@@ -213,7 +213,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "5-7 minutes",
-                "image": "https://example.com/ravioli.jpg"
+                "image": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2012/05/ricetta-ravioli-ricotta-spinaci/jcr:content/imagePreview.img10.jpg/1542896337028.jpg"
             },
             {
                 "id": 13,
@@ -228,7 +228,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "15 minutes",
-                "image": "https://example.com/carbonara.jpg"
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/6/12/2/FO1D41_23785_s4x3.jpg.rend.hgtvcom.616.462.suffix/1431766590243.jpeg"
             },
             {
                 "id": 14,
@@ -243,7 +243,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "1 hour",
-                "image": "https://example.com/cacciatora.jpg"
+                "image": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2009/12/ricetta-pollo-cacciatora/_jcr_content/header-par/image_single.img.jpg/1579020893122.jpg"
             },
             {
                 "id": 15,
@@ -258,7 +258,7 @@
                 ],
                 "prep_time": "20 minutes",
                 "cook_time": "0 minutes",
-                "image": "https://example.com/tiramisu.jpg"
+                "image": "https://i.shgcdn.com/269063bf-d72d-41dd-b848-9b30657696e6/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
             }
         ],
         "likes": 1200,
@@ -266,7 +266,8 @@
     },
     {
         "id": 4,
-        "picture": "https://example.com/chef004.jpg",
+        "picture": "https://hellocheffy.com/wp-content/uploads/2021/11/abdulla-m-uTaSlu2Jfsg-unsplash.jpg",
+       
         "name": "Giovanni Rossi",
         "years_of_experience": 12,
         "num_recipes": 15,
@@ -284,7 +285,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "15 minutes",
-                "image": "https://example.com/fettuccine_alfredo.jpg"
+                "image": "https://i2.wp.com/snappygourmet.com/wp-content/uploads/2019/02/How-to-make-fettuccine-alfredo-2a-wm.jpg"
             },
             {
                 "id": 17,
@@ -301,7 +302,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "2 hours",
-                "image": "https://example.com/osso_buco.jpg"
+                "image": "https://media-assets.lacucinaitaliana.it/photos/62cd8c00d2e7a79958ad1946/4:3/w_1332,h_999,c_limit/ossobuco-alla-milanese.jpg"
             },
             {
                 "id": 18,
@@ -317,7 +318,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "0 minutes",
-                "image": "https://example.com/tiramisu.jpg"
+                "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2011/2/4/2/RX-FNM_030111-Sugar-Fix-005_s4x3.jpg"
             },
             {
                 "id": 19,
@@ -332,7 +333,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "0 minutes",
-                "image": "https://example.com/pesto.jpg"
+                "image": "https://www.sipandfeast.com/wp-content/uploads/2022/05/chicken-pesto-pasta-salad-recipe-snippet.jpg"
             },
             {
                 "id": 20,
@@ -347,7 +348,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "10-15 minutes",
-                "image": "https://example.com/pizza_margherita.jpg"
+                "image": "https://www.giallozafferano.com/images/260-26051/Pizza-Margherita_1200x800.jpg"
             }
         ],
         "likes": 120,
@@ -355,8 +356,9 @@
     },
     {
         "id": 5,
-        "picture": "https://example.com/chef005.jpg",
+        "picture": "https://nerdyfoodies.com/wp-content/uploads/2021/01/chef-fabio-viviani-1024x1024.jpg",
         "name": "Francesca Lombardi",
+       
         "years_of_experience": 15,
         "num_recipes": 22,
         "recipes": [
@@ -364,7 +366,7 @@
                 "id": 21,
                 "name": "Lasagna",
                 "description": "A classic Italian casserole made with layers of pasta, meat sauce, and cheese.",
-                "image": "https://example.com/lasagna.jpg",
+                "image": "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
                 "ingredients": [
                     "lasagna noodles",
                     "ground beef",
@@ -379,7 +381,7 @@
                 "id": 22,
                 "name": "Minestrone Soup",
                 "description": "A hearty Italian soup made with vegetables, beans, and pasta.",
-                "image": "https://example.com/minestrone.jpg",
+                "image": "https://www.livingsmartandhealthy.com/wp-content/uploads/2023/03/Featured-Minestrone-Soup.jpg",
                 "ingredients": [
                     "carrots",
                     "celery",
@@ -396,7 +398,7 @@
                 "id": 23,
                 "name": "Veal Scaloppine",
                 "description": "A classic Italian dish made with thinly sliced veal, mushrooms, and white wine sauce.",
-                "image": "https://example.com/veal_scaloppine.jpg",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/3/25/2/RF0608H_Veal-Scallopine-with-Mushroom-Marsala-Sauce_s4x3.jpg.rend.hgtvcom.616.462.suffix/1462303201704.jpeg",
                 "ingredients": [
                     "veal",
                     "flour",
@@ -412,7 +414,7 @@
                 "id": 24,
                 "name": "Caprese Salad",
                 "description": "A simple Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
-                "image": "https://example.com/caprese_salad.jpg",
+                "image": "https://www.allrecipes.com/thmb/_lUD8ZGTFWZu_kOgAKXD2laZ10s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4794067-pesto-pasta-caprese-salad-Buckwheat-Queen-4x3-1-d575cee6c24c4dd5a87cf06f5f0ebb6d.jpg",
                 "ingredients": [
                     "tomatoes",
                     "mozzarella cheese",
@@ -427,7 +429,7 @@
                 "id": 25,
                 "name": "Spaghetti Carbonara",
                 "description": "A classic Italian pasta dish made with spaghetti, pancetta, eggs, and cheese.",
-                "image": "https://example.com/spaghetti_carbonara.jpg",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
                 "ingredients": [
                     "spaghetti",
                     "pancetta",
@@ -444,7 +446,7 @@
     },
     {
         "id": "6",
-        "chef_picture": "https://example.com/chef123.jpg",
+        "chef_picture": "https://blog.cookeatdiscover.com/content/images/size/w2000/2021/03/CPG_POLENTA_59-1.jpg",
         "chef_name": "Mario Rossi",
         "years_of_experience": 10,
         "num_recipes": 5,
@@ -453,12 +455,14 @@
                 "id": 26,
                 "name": "Torta della Nonna",
                 "description": "A traditional Italian dessert made with pastry cream and pine nuts.",
-                "image": "https://example.com/torta_della_nonna.jpg",
+                "image": "https://www.giallozafferano.it/images/167-16720/Torta-della-nonna_650x433_wm.jpg",
                 "ingredients": [
                     "pastry dough",
                     "pastry cream",
                     "pine nuts",
-                    "sugar"
+                    "sugar",
+                    "honey"
+        
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "45 minutes"
@@ -467,7 +471,7 @@
                 "id": 27,
                 "name": "Veal Scaloppine",
                 "description": "A classic Italian dish made with thinly sliced veal, mushrooms, and white wine sauce.",
-                "image": "https://example.com/veal_scaloppine.jpg",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/3/25/2/RF0608H_Veal-Scallopine-with-Mushroom-Marsala-Sauce_s4x3.jpg.rend.hgtvcom.616.462.suffix/1462303201704.jpeg",
                 "ingredients": [
                     "veal",
                     "flour",
@@ -492,7 +496,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "15 minutes",
-                "image": "https://example.com/fettuccine_alfredo.jpg"
+                "image": "https://i2.wp.com/snappygourmet.com/wp-content/uploads/2019/02/How-to-make-fettuccine-alfredo-2a-wm.jpg"
             },
             {
                 "id": 29,
@@ -507,7 +511,7 @@
                 ],
                 "prep_time": "10 minutes",
                 "cook_time": "10 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://www.allrecipes.com/thmb/QSsjryxShEx1L6o0HLer1Nn4jwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/54165-balsamic-bruschetta-DDMFS-4x3-e2b55b5ca39b4c1783e524a2461634ea.jpg"
             },
             {
                 "id": 30,
@@ -523,7 +527,7 @@
                 ],
                 "prep_time": "30 minutes",
                 "cook_time": "0 minutes",
-                "image": "https://example.com/bruschetta.jpg"
+                "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/04/07/21412-tiramisu-ii-3x2-119.jpg"
             }
         ],
         "likes": 1000,
