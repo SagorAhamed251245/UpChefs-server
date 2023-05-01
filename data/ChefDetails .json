@@ -1,0 +1,532 @@
+[
+    {
+        "id": 1,
+        "picture": "https://example.com/chef001.jpg",
+        "name": "Giuseppe Rossi",
+        "years_of_experience": 15,
+        "num_recipes": 10,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Spaghetti Carbonara",
+                "description": "A classic Roman dish made with spaghetti, pancetta, eggs, and Parmesan cheese.",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "Parmesan cheese",
+                    "black pepper"
+                ],
+                "prep_time": "20 minutes",
+                "cook_time": "10 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Margherita Pizza",
+                "description": "A classic Neapolitan pizza made with tomato sauce, fresh mozzarella, and basil.",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "fresh mozzarella",
+                    "basil",
+                    "olive oil"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "10-15 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Osso Buco",
+                "description": "A Milanese specialty made with veal shanks braised in a tomato-based sauce.",
+                "ingredients": [
+                    "veal shanks",
+                    "tomatoes",
+                    "carrots",
+                    "celery",
+                    "onions",
+                    "garlic",
+                    "white wine"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "2-3 hours",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Risotto alla Milanese",
+                "description": "A classic Milanese dish made with Arborio rice, saffron, and Parmesan cheese.",
+                "ingredients": [
+                    "Arborio rice",
+                    "onions",
+                    "white wine",
+                    "saffron",
+                    "Parmesan cheese",
+                    "butter"
+                ],
+                "prep_time": "20 minutes",
+                "cook_time": "25 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Tiramisu",
+                "description": "A classic Italian dessert made with layers of ladyfingers, coffee, mascarpone cheese, and cocoa powder.",
+                "ingredients": [
+                    "ladyfingers",
+                    "coffee",
+                    "mascarpone cheese",
+                    "eggs",
+                    "sugar",
+                    "cocoa powder"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "0 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            }
+        ],
+        "likes": 100,
+        "short_bio": "Giuseppe Rossi is a highly experienced Italian chef with a passion for traditional Italian cuisine."
+    },
+    {
+        "id": 2,
+        "picture": "https://example.com/chef002.jpg",
+        "name": "Maria Hernandez",
+        "years_of_experience": 8,
+        "num_recipes": 12,
+        "recipes": [
+            {
+                "id": 6,
+                "name": "Pasta e Fagioli",
+                "description": "A classic Italian soup made with pasta, beans, and vegetables.",
+                "ingredients": [
+                    "pasta",
+                    "beans",
+                    "carrots",
+                    "celery",
+                    "onions",
+                    "garlic",
+                    "tomatoes"
+                ],
+                "prep_time": "20 minutes",
+                "cook_time": "30 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Caprese Salad",
+                "description": "A simple Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "0 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Polenta",
+                "description": "A traditional Italian dish made with cornmeal and served with various sauces.",
+                "ingredients": [
+                    "cornmeal",
+                    "water",
+                    "butter",
+                    "Parmesan cheese",
+                    "salt"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "40 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Saltimbocca alla Romana",
+                "description": "A Roman specialty made with veal cutlets, prosciutto, and sage.",
+                "ingredients": [
+                    "veal cutlets",
+                    "prosciutto",
+                    "sage",
+                    "white wine",
+                    "butter"
+                ],
+                "prep_time": "20 minutes",
+                "cook_time": "10 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Cannoli",
+                "description": "A Sicilian dessert made with fried pastry dough and a sweet ricotta filling.",
+                "ingredients": [
+                    "pastry dough",
+                    "ricotta cheese",
+                    "sugar",
+                    "chocolate chips",
+                    "candied fruit"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "30 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            }
+        ],
+        "likes": 75,
+        "short_bio": "Maria Hernandez is a passionate Italian chef who loves to create simple yet delicious dishes."
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/chef003.jpg",
+        "name": "Antonio Russo",
+        "years_of_experience": 20,
+        "num_recipes": 18,
+        "recipes": [
+            {
+                "id": 11,
+                "name": "Bruschetta",
+                "description": "A classic Italian appetizer made with grilled bread, tomatoes, and garlic.",
+                "ingredients": [
+                    "bread",
+                    "tomatoes",
+                    "garlic",
+                    "olive oil",
+                    "basil"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "10 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 12,
+                "name": "Ravioli di Ricotta e Spinaci",
+                "description": "A classic Italian pasta dish made with ravioli stuffed with ricotta cheese and spinach.",
+                "ingredients": [
+                    "ravioli",
+                    "ricotta cheese",
+                    "spinach",
+                    "Parmesan cheese",
+                    "butter",
+                    "sage"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "5-7 minutes",
+                "image": "https://example.com/ravioli.jpg"
+            },
+            {
+                "id": 13,
+                "name": "Spaghetti alla Carbonara",
+                "description": "A classic Roman dish made with spaghetti, eggs, pancetta, and Parmesan cheese.",
+                "ingredients": [
+                    "spaghetti",
+                    "eggs",
+                    "pancetta",
+                    "Parmesan cheese",
+                    "black pepper"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "15 minutes",
+                "image": "https://example.com/carbonara.jpg"
+            },
+            {
+                "id": 14,
+                "name": "Pollo alla Cacciatora",
+                "description": "A classic Tuscan dish made with chicken, tomatoes, onions, and garlic.",
+                "ingredients": [
+                    "chicken",
+                    "tomatoes",
+                    "onions",
+                    "garlic",
+                    "rosemary"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "1 hour",
+                "image": "https://example.com/cacciatora.jpg"
+            },
+            {
+                "id": 15,
+                "name": "Tiramisu",
+                "description": "A classic Italian dessert made with ladyfingers, espresso, and mascarpone cheese.",
+                "ingredients": [
+                    "ladyfingers",
+                    "espresso",
+                    "mascarpone cheese",
+                    "cocoa powder",
+                    "butter"
+                ],
+                "prep_time": "20 minutes",
+                "cook_time": "0 minutes",
+                "image": "https://example.com/tiramisu.jpg"
+            }
+        ],
+        "likes": 1200,
+        "short_bio": "Antonio Russo is an Italian chef with over 20 years of experience in traditional Italian cuisine. He is passionate about using fresh, locally-sourced ingredients and preserving the rich culinary traditions of Italy."
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/chef004.jpg",
+        "name": "Giovanni Rossi",
+        "years_of_experience": 12,
+        "num_recipes": 15,
+        "recipes": [
+            {
+                "id": 16,
+                "name": "Fettuccine Alfredo",
+                "description": "A classic Italian pasta dish made with fettuccine noodles and a creamy Parmesan sauce.",
+                "ingredients": [
+                    "fettuccine",
+                    "heavy cream",
+                    "butter",
+                    "Parmesan cheese",
+                    "garlic"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "15 minutes",
+                "image": "https://example.com/fettuccine_alfredo.jpg"
+            },
+            {
+                "id": 17,
+                "name": "Osso Buco alla Milanese",
+                "description": "A Milanese specialty made with veal shanks braised with vegetables and white wine.",
+                "ingredients": [
+                    "veal shanks",
+                    "onions",
+                    "carrots",
+                    "celery",
+                    "tomatoes",
+                    "white wine",
+                    "broth"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "2 hours",
+                "image": "https://example.com/osso_buco.jpg"
+            },
+            {
+                "id": 18,
+                "name": "Tiramisu",
+                "description": "A classic Italian dessert made with ladyfingers, espresso, and a mascarpone cheese filling.",
+                "ingredients": [
+                    "ladyfingers",
+                    "espresso",
+                    "mascarpone cheese",
+                    "eggs",
+                    "sugar",
+                    "cocoa powder"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "0 minutes",
+                "image": "https://example.com/tiramisu.jpg"
+            },
+            {
+                "id": 19,
+                "name": "Pesto",
+                "description": "A classic Italian sauce made with fresh basil, garlic, pine nuts, and Parmesan cheese.",
+                "ingredients": [
+                    "basil",
+                    "garlic",
+                    "pine nuts",
+                    "Parmesan cheese",
+                    "olive oil"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "0 minutes",
+                "image": "https://example.com/pesto.jpg"
+            },
+            {
+                "id": 20,
+                "name": "Pizza Margherita",
+                "description": "A classic Neapolitan pizza made with tomato sauce, mozzarella cheese, and basil.",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "10-15 minutes",
+                "image": "https://example.com/pizza_margherita.jpg"
+            }
+        ],
+        "likes": 120,
+        "short_bio": "Giovanni Rossi is an experienced Italian chef who loves to experiment with traditional Italian dishes."
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/chef005.jpg",
+        "name": "Francesca Lombardi",
+        "years_of_experience": 15,
+        "num_recipes": 22,
+        "recipes": [
+            {
+                "id": 21,
+                "name": "Lasagna",
+                "description": "A classic Italian casserole made with layers of pasta, meat sauce, and cheese.",
+                "image": "https://example.com/lasagna.jpg",
+                "ingredients": [
+                    "lasagna noodles",
+                    "ground beef",
+                    "tomato sauce",
+                    "ricotta cheese",
+                    "mozzarella cheese"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "1 hour"
+            },
+            {
+                "id": 22,
+                "name": "Minestrone Soup",
+                "description": "A hearty Italian soup made with vegetables, beans, and pasta.",
+                "image": "https://example.com/minestrone.jpg",
+                "ingredients": [
+                    "carrots",
+                    "celery",
+                    "onion",
+                    "garlic",
+                    "tomatoes",
+                    "cannellini beans",
+                    "pasta"
+                ],
+                "prep_time": "20 minutes",
+                "cook_time": "1 hour"
+            },
+            {
+                "id": 23,
+                "name": "Veal Scaloppine",
+                "description": "A classic Italian dish made with thinly sliced veal, mushrooms, and white wine sauce.",
+                "image": "https://example.com/veal_scaloppine.jpg",
+                "ingredients": [
+                    "veal",
+                    "flour",
+                    "mushrooms",
+                    "butter",
+                    "white wine",
+                    "chicken broth"
+                ],
+                "prep_time": "20 minutes",
+                "cook_time": "20 minutes"
+            },
+            {
+                "id": 24,
+                "name": "Caprese Salad",
+                "description": "A simple Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
+                "image": "https://example.com/caprese_salad.jpg",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "fresh basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "0 minutes"
+            },
+            {
+                "id": 25,
+                "name": "Spaghetti Carbonara",
+                "description": "A classic Italian pasta dish made with spaghetti, pancetta, eggs, and cheese.",
+                "image": "https://example.com/spaghetti_carbonara.jpg",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "Parmesan cheese",
+                    "black pepper"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "15 minutes"
+            }
+        ],
+        "likes": 200,
+        "short_bio": "Francesca Lombardi is an experienced Italian chef who loves to share her passion for authentic Italian cuisine."
+    },
+    {
+        "id": "6",
+        "chef_picture": "https://example.com/chef123.jpg",
+        "chef_name": "Mario Rossi",
+        "years_of_experience": 10,
+        "num_recipes": 5,
+        "recipes": [
+            {
+                "id": 26,
+                "name": "Torta della Nonna",
+                "description": "A traditional Italian dessert made with pastry cream and pine nuts.",
+                "image": "https://example.com/torta_della_nonna.jpg",
+                "ingredients": [
+                    "pastry dough",
+                    "pastry cream",
+                    "pine nuts",
+                    "sugar"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "45 minutes"
+            },
+            {
+                "id": 27,
+                "name": "Veal Scaloppine",
+                "description": "A classic Italian dish made with thinly sliced veal, mushrooms, and white wine sauce.",
+                "image": "https://example.com/veal_scaloppine.jpg",
+                "ingredients": [
+                    "veal",
+                    "flour",
+                    "mushrooms",
+                    "butter",
+                    "white wine",
+                    "chicken broth"
+                ],
+                "prep_time": "20 minutes",
+                "cook_time": "20 minutes"
+            },
+            {
+                "id": 28,
+                "name": "Fettuccine Alfredo",
+                "description": "A classic Italian pasta dish made with fettuccine noodles and a creamy Parmesan sauce.",
+                "ingredients": [
+                    "fettuccine",
+                    "heavy cream",
+                    "butter",
+                    "Parmesan cheese",
+                    "garlic"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "15 minutes",
+                "image": "https://example.com/fettuccine_alfredo.jpg"
+            },
+            {
+                "id": 29,
+                "name": "Bruschetta",
+                "description": "A classic Italian appetizer made with grilled bread, tomatoes, and garlic.",
+                "ingredients": [
+                    "bread",
+                    "tomatoes",
+                    "garlic",
+                    "olive oil",
+                    "basil"
+                ],
+                "prep_time": "10 minutes",
+                "cook_time": "10 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            },
+            {
+                "id": 30,
+                "name": "Tiramisu",
+                "description": "A classic Italian dessert made with layers of ladyfingers, coffee, mascarpone cheese, and cocoa powder.",
+                "ingredients": [
+                    "ladyfingers",
+                    "coffee",
+                    "mascarpone cheese",
+                    "eggs",
+                    "sugar",
+                    "cocoa powder"
+                ],
+                "prep_time": "30 minutes",
+                "cook_time": "0 minutes",
+                "image": "https://example.com/bruschetta.jpg"
+            }
+        ],
+        "likes": 1000,
+        "short_bio": "Chef Mario Rossi is an Italian chef with over 10 years of experience in preparing authentic Italian cuisine. He is passionate about using the freshest ingredients and traditional cooking techniques to create delicious dishes that are both simple and elegant."
+    }
+]
