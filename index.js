@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     res.send('Hello World!')
 });
 app.get('/chefs',(req, res) => {
-    res.send(chefDetails)
+    res.send(chefDetails) 
 })
 
 app.listen(port, () => {
