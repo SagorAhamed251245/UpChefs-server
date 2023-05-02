@@ -494,8 +494,8 @@
     },
     {
         "id": "6",
-        "chef_picture": "https://blog.cookeatdiscover.com/content/images/size/w2000/2021/03/CPG_POLENTA_59-1.jpg",
-        "chef_name": "Mario Rossi",
+        "picture": "https://blog.cookeatdiscover.com/content/images/size/w2000/2021/03/CPG_POLENTA_59-1.jpg",
+        "name": "Mario Rossi",
         "years_of_experience": 10,
         "num_recipes": 5,
         "recipes": [
