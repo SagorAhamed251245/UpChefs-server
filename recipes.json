@@ -1,0 +1,527 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Roman dish made with spaghetti, pancetta, eggs, and Parmesan cheese.",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "Parmesan cheese",
+            "black pepper"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "10 minutes",
+        "cooking_method": "1. Cook spaghetti according to package directions.\n2. While the spaghetti is cooking, fry the pancetta in a large skillet until crispy.\n3. In a bowl, whisk together the eggs, Parmesan cheese, and black pepper.\n4. Drain the cooked spaghetti and add it to the skillet with the pancetta. Turn off the heat.\n5. Pour the egg mixture over the spaghetti and toss until the eggs are cooked and the pasta is coated.\n6. Serve and enjoy!",
+        "image": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "description": "A classic Neapolitan pizza made with tomato sauce, fresh mozzarella, and basil.",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "fresh mozzarella",
+            "basil",
+            "olive oil"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "10-15 minutes",
+        "cooking_method": "1. Preheat the oven to 475°F.\n2. Roll out the pizza dough and place it on a baking sheet or pizza stone.\n3. Spread tomato sauce over the pizza dough, leaving a 1-inch border around the edges.\n4. Sprinkle the cheese over the tomato sauce.\n5. Add the basil leaves.\n6. Drizzle with olive oil.\n7. Bake for 10-15 minutes, or until the crust is golden brown and the cheese is melted.\n8. Slice and serve hot.",
+        "image": "https://cdn.shopify.com/s/files/1/0624/9853/articles/20220211142645-margherita-9920.jpg?crop=center&height=915&v=1660843558&width=1200",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "name": "Osso Buco",
+        "description": "A Milanese specialty made with veal shanks braised in a tomato-based sauce.",
+        "ingredients": [
+            "veal shanks",
+            "tomatoes",
+            "carrots",
+            "celery",
+            "onions",
+            "garlic",
+            "white wine"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "2-3 hours",
+        "cooking_method": "1. Preheat the oven to 350°F.\n2. In a large Dutch oven, heat some olive oil over medium-high heat.\n3. Season the veal shanks with salt and pepper, and then sear them in the hot oil until they are browned on all sides. Remove the shanks and set them aside.\n4. In the same pot, add the onions, carrots, celery, and garlic. Cook for a few minutes until the vegetables are softened.\n5. Pour in the white wine and scrape the bottom of the pot to release any browned bits.\n6. Add the tomatoes and bring the mixture to a simmer.\n7. Return the veal shanks to the pot and spoon some of the sauce over the top.\n8. Cover the pot with a lid and transfer it to the preheated oven.\n9. Cook for 2-3 hours, or until the veal is very tender and falling off the bone.\n10. Serve the Osso Buco hot, garnished with chopped parsley or gremolata (a mixture of lemon zest, garlic, and parsley). Enjoy!",
+        "image": "https://www.simplyrecipes.com/thmb/2AjZWxY7oJ7jkMRtrSjtkQAtvQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2006__12__Osso-Buco-LEAD-5-a816159cbe9740a5b21f3c1e515f9da2.jpg",
+        "rating": 4.8
+    },
+    {
+        "id": 4,
+        "name": "Risotto alla Milanese",
+        "description": "A classic Milanese dish made with Arborio rice, saffron, and Parmesan cheese.",
+        "ingredients": [
+            "Arborio rice",
+            "onions",
+            "white wine",
+            "saffron",
+            "Parmesan cheese",
+            "butter"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "25 minutes",
+        "cooking_method": "1. In a large saucepan, heat some olive oil over medium heat.\n2. Add the onions and cook until translucent, about 5 minutes.\n3. Add the Arborio rice and stir until the grains are coated with oil.\n4. Add the white wine and stir until it is absorbed.\n5. Add a ladleful of hot chicken or vegetable stock and stir until it is absorbed.\n6. Repeat step 5 until the rice is cooked al dente, about 20-25 minutes.\n7. Stir in the saffron, Parmesan cheese, and butter until well combined.\n8. Season with salt and pepper to taste.",
+        "image": "https://winedharma.com/wine-dharma/uploads/2020/10/Risotto-alla-Milanese-recipe-risotto-with-saffron-beef-marrow-Italian-recipe.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 5,
+        "name": "Tiramisu",
+        "description": "A classic Italian dessert made with layers of ladyfingers, coffee, mascarpone cheese, and cocoa powder.",
+        "ingredients": [
+            "ladyfingers",
+            "coffee",
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "cocoa powder"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "0 minutes",
+        "cooking_method": "1. In a mixing bowl, beat the egg yolks and sugar until pale and thick.\n2. Add the mascarpone cheese to the egg yolk mixture and beat until smooth.\n3. In a separate bowl, beat the egg whites until stiff peaks form.\n4. Gently fold the egg whites into the mascarpone mixture.\n5. Dip the ladyfingers in coffee and layer them in a dish.\n6. Spread the mascarpone mixture on top of the ladyfingers.\n7. Repeat layers of ladyfingers and mascarpone mixture until all ingredients are used.\n8. Cover and chill in the refrigerator for at least 2 hours.\n9. Sprinkle with cocoa powder before serving.",
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/04/07/21412-tiramisu-ii-3x2-119.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "name": "Pasta e Fagioli",
+        "description": "A classic Italian soup made with pasta, beans, and vegetables.",
+        "ingredients": [
+            "pasta",
+            "beans",
+            "carrots",
+            "celery",
+            "onions",
+            "garlic",
+            "tomatoes"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "30 minutes",
+        "image": "https://www.tavolartegusto.it/wp/wp-content/uploads/2018/01/Pasta-e-Fagioli-la-ricetta-originale-napoletana-cremosa-Ricetta-Pasta-e-Fagioli.jpg",
+        "cooking_method": "1. Heat some olive oil in a large pot over medium heat.\n2. Add the chopped onions, carrots, celery, and garlic and cook until softened, stirring occasionally.\n3. Add the tomatoes and cook for a few more minutes.\n4. Add the beans and enough water or vegetable broth to cover the ingredients by about an inch.\n5. Bring to a boil and then reduce the heat to a simmer.\n6. Cook for about 10-15 minutes, until the vegetables are tender.\n7. Add the pasta and cook until al dente, according to the package instructions.\n8. Serve hot with some grated Parmesan cheese on top.",
+        "rating": 4.8
+    },
+    {
+        "id": 7,
+        "name": "Caprese Salad",
+        "description": "A simple Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
+        "ingredients": [
+            "tomatoes",
+            "mozzarella cheese",
+            "basil",
+            "olive oil",
+            "balsamic vinegar"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "0 minutes",
+        "image": "https://www.thespruceeats.com/thmb/2pjgFA7_nbZtlXr68BECvf6fO48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/caprese-salad-tomato-salad-2217097-hero-03-75a0b89b30aa4a52b10fe4fdd9abfeb5.jpg",
+        "cooking_method": "1. Slice the tomatoes and mozzarella cheese.\n2. Arrange the tomato and mozzarella slices on a serving dish.\n3. Garnish with basil leaves.\n4. Drizzle with olive oil and balsamic vinegar.\n5. Serve immediately.",
+        "rating": 4.5
+    },
+    {
+        "id": 8,
+        "name": "Polenta",
+        "description": "A traditional Italian dish made with cornmeal and served with various sauces.",
+        "ingredients": [
+            "cornmeal",
+            "water",
+            "butter",
+            "Parmesan cheese",
+            "salt"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "40 minutes",
+        "cooking_method": "1. In a large pot, bring water and salt to a boil. \n2. Slowly whisk in the cornmeal, stirring constantly to prevent lumps. \n3. Reduce heat to low and cook the polenta, stirring frequently, for 30-40 minutes or until thickened. \n4. Remove from heat and stir in butter and Parmesan cheese.",
+        "image": "https://www.seriouseats.com/thmb/ILLeyKORbTnz3DsUKRrEoLSDJjQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__05__20150501-polenta-vicky-wasik-5-018e7507df9940f9b1d9cd0b5f67339b.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 9,
+        "name": "Saltimbocca alla Romana",
+        "description": "A Roman specialty made with veal cutlets, prosciutto, and sage.",
+        "ingredients": [
+            "veal cutlets",
+            "prosciutto",
+            "sage",
+            "white wine",
+            "butter"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "10 minutes",
+        "image": "https://www.giallozafferano.it/images/ricette/204/20401/foto_hd/hd650x433_wm.jpg",
+        "cooking_method": "1. Flatten the veal cutlets with a meat mallet to about 1/4 inch thick. Season with salt and pepper.\n2. Place a slice of prosciutto and a sage leaf on each cutlet.\n3. Secure with a toothpick.\n4. Heat butter in a large skillet over medium heat.\n5. Add the cutlets and cook for about 2-3 minutes on each side or until golden brown.\n6. Add white wine to the skillet and cook until reduced by half.\n7. Remove the toothpicks from the cutlets and serve immediately.",
+        "rating": 4.8
+    },
+    {
+        "id": 10,
+        "name": "Cannoli",
+        "description": "A Sicilian dessert made with fried pastry dough and a sweet ricotta filling.",
+        "ingredients": [
+            "pastry dough",
+            "ricotta cheese",
+            "sugar",
+            "chocolate chips",
+            "candied fruit"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "30 minutes",
+        "image": "https://www.momontimeout.com/wp-content/uploads/2021/04/churro-cannolis-square.jpeg",
+        "cooking_method": "1. Preheat oil in a deep-fryer or heavy skillet to 375°F. \n2. Cut pastry dough into circles and wrap around cannoli tubes. \n3. Fry the cannoli shells until golden brown, then remove from the oil and allow to cool. \n4. Mix together ricotta cheese, sugar, chocolate chips, and candied fruit. \n5. Fill the cooled cannoli shells with the ricotta mixture. \n6. Dust with powdered sugar and serve.",
+        "rating": 4.8
+    },
+    {
+        "id": 11,
+        "name": "Bruschetta",
+        "description": "A classic Italian appetizer made with grilled bread, tomatoes, and garlic.",
+        "ingredients": [
+            "bread",
+            "tomatoes",
+            "garlic",
+            "olive oil",
+            "basil"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "10 minutes",
+        "image": "https://www.allrecipes.com/thmb/QSsjryxShEx1L6o0HLer1Nn4jwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/54165-balsamic-bruschetta-DDMFS-4x3-e2b55b5ca39b4c1783e524a2461634ea.jpg",
+        "cooking_method": "Grilling or toasting bread, and mixing the tomatoes, garlic, olive oil, and basil.",
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "name": "Ravioli di Ricotta e Spinaci",
+        "description": "A classic Italian pasta dish made with ravioli stuffed with ricotta cheese and spinach.",
+        "ingredients": [
+            "ravioli",
+            "ricotta cheese",
+            "spinach",
+            "Parmesan cheese",
+            "butter",
+            "sage"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "5-7 minutes",
+        "cooking_method": "1. Bring a large pot of salted water to a boil over high heat.\n2. Add the ravioli to the boiling water and stir gently to prevent them from sticking together.\n3. Cook the ravioli for 5-7 minutes, or until they float to the top of the water and are cooked through.\n4. While the ravioli is cooking, melt the butter in a large skillet over medium heat. Add the sage and cook until fragrant, about 1 minute.\n5. Using a slotted spoon or spider, transfer the cooked ravioli to the skillet with the butter and sage. Toss gently to coat the ravioli with the butter sauce.\n6. Serve the ravioli hot, garnished with Parmesan cheese.",
+        "rating": 4.8,
+        "image": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2012/05/ricetta-ravioli-ricotta-spinaci/jcr:content/imagePreview.img10.jpg/1542896337028.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Spaghetti alla Carbonara",
+        "description": "A classic Roman dish made with spaghetti, eggs, pancetta, and Parmesan cheese.",
+        "ingredients": [
+            "spaghetti",
+            "eggs",
+            "pancetta",
+            "Parmesan cheese",
+            "black pepper"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "cooking_method": "1. Bring a large pot of salted water to a boil over high heat. Add the spaghetti and cook until al dente, about 8-10 minutes.\n2. While the spaghetti is cooking, cook the pancetta in a large skillet over medium heat until crisp and browned, about 5-7 minutes.\n3. In a mixing bowl, whisk together the eggs, Parmesan cheese, and black pepper.\n4. Once the spaghetti is cooked, reserve 1 cup of the pasta cooking water, then drain the spaghetti and add it to the skillet with the pancetta. Toss well to coat the spaghetti with the pancetta fat.\n5. Remove the skillet from the heat and add the egg mixture to the spaghetti, tossing quickly to avoid scrambling the eggs.\n6. If the pasta seems too dry, add a splash of the reserved pasta cooking water to loosen it up. Serve hot, garnished with additional grated Parmesan cheese and black pepper.",
+        "rating": 4.9,
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/6/12/2/FO1D41_23785_s4x3.jpg.rend.hgtvcom.616.462.suffix/1431766590243.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Pollo alla Cacciatora",
+        "description": "A classic Tuscan dish made with chicken, tomatoes, onions, and garlic.",
+        "ingredients": [
+            "chicken",
+            "tomatoes",
+            "onions",
+            "garlic",
+            "rosemary"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "1 hour",
+        "cooking_method": "1. Preheat the oven to 350°F (175°C).\n2. In a large skillet over medium-high heat, brown the chicken on all sides, about 10 minutes. Transfer the chicken to a large baking dish.\n3. In the same skillet, sauté the onions until they are translucent, about 5 minutes. Add the garlic and cook for another minute.\n4. Add the tomatoes and rosemary to the skillet, and stir to combine. Bring to a simmer, then pour the tomato mixture over the chicken in the baking dish.\n5. Cover the baking dish with foil and bake for 45 minutes. Remove the foil and bake for an additional 15 minutes, or until the chicken is cooked through and the sauce has thickened.\n6. Serve hot with your choice of sides, such as rice, pasta, or roasted vegetables.",
+        "rating": 4.7,
+        "image": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2009/12/ricetta-pollo-cacciatora/_jcr_content/header-par/image_single.img.jpg/1579020893122.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Tiramisu",
+        "description": "A classic Italian dessert made with ladyfingers, espresso, and mascarpone cheese.",
+        "ingredients": [
+            "ladyfingers",
+            "espresso",
+            "mascarpone cheese",
+            "cocoa powder",
+            "butter"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "0 minutes",
+        "cooking_method": "1. Brew the espresso and let it cool down. \n2. In a mixing bowl, beat the mascarpone cheese and butter until creamy. \n3. In a separate bowl, beat the egg whites until stiff peaks form. \n4. Fold the egg whites into the mascarpone mixture. \n5. Dip the ladyfingers into the cooled espresso and layer them in a dish. \n6. Spread half of the mascarpone mixture over the ladyfingers. \n7. Repeat with another layer of ladyfingers and mascarpone mixture. \n8. Cover the dish and chill in the fridge for at least 2 hours. \n9. Dust cocoa powder over the top of the tiramisu before serving.",
+        "rating": 4.9,
+        "image": "https://i.shgcdn.com/269063bf-d72d-41dd-b848-9b30657696e6/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+    },
+    {
+        "id": 16,
+        "name": "Fettuccine Alfredo",
+        "description": "A classic Italian pasta dish made with fettuccine noodles and a creamy Parmesan sauce.",
+        "ingredients": [
+            "fettuccine",
+            "heavy cream",
+            "butter",
+            "Parmesan cheese",
+            "garlic"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "cooking_method": "1. Cook the fettuccine according to package instructions until al dente, then drain and set aside. \n2. In a large saucepan, melt the butter over medium heat. Add the garlic and cook for about 1 minute, or until fragrant. \n3. Add the heavy cream to the saucepan and bring to a simmer, stirring constantly. Cook for 2-3 minutes or until the sauce has thickened slightly. \n4. Gradually add the Parmesan cheese to the sauce, stirring constantly until it has melted and the sauce is smooth. \n5. Add the cooked fettuccine to the saucepan and toss until the noodles are evenly coated with the sauce. \n6. Serve hot, garnished with additional Parmesan cheese and black pepper to taste.",
+        "rating": 4.5,
+        "image": "https://i2.wp.com/snappygourmet.com/wp-content/uploads/2019/02/How-to-make-fettuccine-alfredo-2a-wm.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Osso Buco alla Milanese",
+        "description": "A Milanese specialty made with veal shanks braised with vegetables and white wine.",
+        "ingredients": [
+            "veal shanks",
+            "onions",
+            "carrots",
+            "celery",
+            "tomatoes",
+            "white wine",
+            "broth"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "2 hours",
+        "cooking_method": "1. Preheat the oven to 350°F (175°C). \n2. In a large Dutch oven or oven-safe pot, heat some oil over medium-high heat. Sear the veal shanks on all sides until browned, then remove from the pot and set aside.\n3. In the same pot, sauté the onions, carrots, and celery until they are softened, about 5 minutes. Add the garlic and cook for another minute. \n4. Pour in the white wine and let it simmer until it has reduced by half, about 5 minutes. Add the tomatoes, broth, and herbs, and stir to combine. \n5. Return the veal shanks to the pot, cover with a lid, and transfer to the oven. Bake for 2 hours, or until the meat is fork-tender. \n6. Serve hot with a side of risotto, polenta, or mashed potatoes.",
+        "rating": 4.9,
+        "image": "https://media-assets.lacucinaitaliana.it/photos/62cd8c00d2e7a79958ad1946/4:3/w_1332,h_999,c_limit/ossobuco-alla-milanese.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Tiramisu",
+        "description": "A classic Italian dessert made with ladyfingers, espresso, and a mascarpone cheese filling.",
+        "ingredients": [
+            "ladyfingers",
+            "espresso",
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "cocoa powder"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "0 minutes",
+        "cooking_method": "1. Brew the espresso and let it cool down.\n2. Separate the egg yolks from the egg whites, and whisk the yolks with the sugar until pale and fluffy.\n3. Add the mascarpone cheese to the egg yolk mixture, and whisk until well combined.\n4. In a separate bowl, beat the egg whites until stiff peaks form.\n5. Fold the egg whites into the mascarpone mixture.\n6. Dip the ladyfingers in the cooled espresso, and place them in a single layer in a 9x13 inch dish.\n7. Spread half of the mascarpone mixture over the ladyfingers.\n8. Dip the remaining ladyfingers in the espresso, and place them in a single layer over the mascarpone mixture.\n9. Spread the remaining mascarpone mixture over the ladyfingers.\n10. Chill in the refrigerator for at least 2 hours or overnight.\n11. Dust with cocoa powder before serving.",
+        "rating": 4.8,
+        "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2011/2/4/2/RX-FNM_030111-Sugar-Fix-005_s4x3.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Pesto",
+        "description": "A classic Italian sauce made with fresh basil, garlic, pine nuts, and Parmesan cheese.",
+        "ingredients": [
+            "basil",
+            "garlic",
+            "pine nuts",
+            "Parmesan cheese",
+            "olive oil"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "0 minutes",
+        "image": "https://www.sipandfeast.com/wp-content/uploads/2022/05/chicken-pesto-pasta-salad-recipe-snippet.jpg",
+        "cooking_method": "Start by washing and drying the basil leaves. Remove any tough stems or yellowed leaves. In a food processor or blender, combine the basil, garlic, pine nuts, and Parmesan cheese. Pulse until finely chopped. With the food processor or blender running, slowly pour in the olive oil until the mixture is smooth and well blended. Taste the pesto and adjust the seasoning as needed with salt and pepper. Pesto can be used immediately, or stored in an airtight container in the refrigerator for up to a week, or frozen for up to three months.",
+        "rating": 4.5
+    },
+    {
+        "id": 20,
+        "name": "Pizza Margherita",
+        "description": "A classic Neapolitan pizza made with tomato sauce, mozzarella cheese, and basil.",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "basil",
+            "olive oil"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "10-15 minutes",
+        "image": "https://www.giallozafferano.com/images/260-26051/Pizza-Margherita_1200x800.jpg",
+        "cooking_method": "1. Preheat your oven to its highest temperature setting. Place a baking sheet or pizza stone in the oven to preheat for at least 30 minutes.\n\n2. Roll out the pizza dough on a floured surface until it's about 12 inches in diameter. Place it on a piece of parchment paper.\n\n3. Spoon tomato sauce over the dough, leaving a border around the edge. Use the back of a spoon to spread the sauce evenly.\n\n4. Sprinkle mozzarella cheese over the sauce.\n\n5. Bake the pizza in the preheated oven for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.\n\n6. Remove the pizza from the oven and let it cool for a minute or two. Sprinkle fresh basil leaves over the top of the pizza.\n\n7. Drizzle with olive oil and serve immediately.",
+        "rating": 4.8
+    },
+    {
+        "id": 21,
+        "name": "Lasagna",
+        "description": "A classic Italian casserole made with layers of pasta, meat sauce, and cheese.",
+        "image": "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "1 hour",
+        "cooking_method": "1. Preheat your oven to 375°F (190°C).\n2. Cook the lasagna noodles according to package directions. Drain and set aside.\n3. In a large skillet, brown the ground beef over medium-high heat. Drain any excess fat.\n4. Add the tomato sauce to the skillet and stir to combine with the beef. Reduce the heat and let simmer for 10 minutes.\n5. In a separate bowl, mix together the ricotta cheese and mozzarella cheese.\n6. To assemble the lasagna, spread a thin layer of the meat sauce in the bottom of a 9x13 inch baking dish. Add a layer of lasagna noodles on top of the sauce, followed by a layer of the cheese mixture. Repeat the layers, finishing with a layer of the cheese mixture on top.\n7. Cover the baking dish with foil and bake in the preheated oven for 25 minutes. Remove the foil and bake for an additional 25 minutes, or until the cheese is melted and bubbly.\n8. Let the lasagna cool for a few minutes before serving.",
+        "rating": 4.7
+    },
+    {
+        "id": 22,
+        "name": "Minestrone Soup",
+        "description": "A hearty Italian soup made with vegetables, beans, and pasta.",
+        "image": "https://www.livingsmartandhealthy.com/wp-content/uploads/2023/03/Featured-Minestrone-Soup.jpg",
+        "ingredients": [
+            "carrots",
+            "celery",
+            "onion",
+            "garlic",
+            "tomatoes",
+            "cannellini beans",
+            "pasta"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "1 hour",
+        "cooking_method": "1. In a large pot, heat some olive oil over medium heat. Add the carrots, celery, and onion and cook until softened, about 5 minutes.\n\n2. Add the garlic and cook for an additional minute.\n\n3. Stir in the tomatoes and their juices, breaking them up with a spoon. Add 6 cups of water and bring to a boil.\n\n4. Reduce the heat and let the soup simmer for 30 minutes.\n\n5. Add the cannellini beans and pasta and cook until the pasta is tender, about 10-15 minutes.\n\n6. Season with salt and pepper to taste.\n\n7. Serve hot, garnished with grated Parmesan cheese and chopped fresh herbs if desired.",
+        "rating": 4.5
+    },
+    {
+        "id": 23,
+        "name": "Veal Scaloppine",
+        "description": "A classic Italian dish made with thinly sliced veal, mushrooms, and white wine sauce.",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/3/25/2/RF0608H_Veal-Scallopine-with-Mushroom-Marsala-Sauce_s4x3.jpg.rend.hgtvcom.616.462.suffix/1462303201704.jpeg",
+        "ingredients": [
+            "veal",
+            "flour",
+            "mushrooms",
+            "butter",
+            "white wine",
+            "chicken broth"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "20 minutes",
+        "cooking_method": "1. Season the veal with salt and pepper and dredge it in flour, shaking off any excess.\n2. In a large skillet, melt the butter over medium-high heat. Add the veal and cook until browned on both sides, about 2-3 minutes per side. Remove the veal from the skillet and set it aside.\n3. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-6 minutes.\n4. Pour in the white wine and chicken broth and bring to a simmer. Cook for about 5-7 minutes or until the sauce has reduced by half.\n5. Return the veal to the skillet and cook for an additional 2-3 minutes, or until heated through.\n6. Serve the veal with the mushroom sauce spooned over the top.",
+        "rating": 4.2
+    },
+    {
+        "id": 24,
+        "name": "Caprese Salad",
+        "description": "A simple Italian salad made with fresh tomatoes, mozzarella cheese, and basil.",
+        "image": "https://www.allrecipes.com/thmb/_lUD8ZGTFWZu_kOgAKXD2laZ10s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4794067-pesto-pasta-caprese-salad-Buckwheat-Queen-4x3-1-d575cee6c24c4dd5a87cf06f5f0ebb6d.jpg",
+        "ingredients": [
+            "tomatoes",
+            "mozzarella cheese",
+            "fresh basil",
+            "olive oil",
+            "balsamic vinegar"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "0 minutes",
+        "cooking_method": "1. Slice the tomatoes and mozzarella cheese into thin rounds.\n2. Arrange the tomato and mozzarella slices in a single layer on a serving platter.\n3. Scatter fresh basil leaves over the top of the tomato and mozzarella slices.\n4. Drizzle olive oil and balsamic vinegar over the top of the salad.\n5. Season with salt and black pepper to taste.\n6. Serve and enjoy!",
+        "rating": 4.9
+    },
+    {
+        "id": 25,
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with spaghetti, pancetta, eggs, and cheese.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/800px-Espaguetis_carbonara.jpg",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "Parmesan cheese",
+            "black pepper"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "cooking_method": "1. Bring a large pot of salted water to a boil. \n2. Add spaghetti to the boiling water and cook until al dente, according to package instructions. \n3. While the pasta cooks, heat a large skillet over medium heat. Add pancetta and cook until crispy, stirring occasionally. \n4. In a separate bowl, whisk together the eggs, Parmesan cheese, and black pepper. \n5. When the pasta is done, drain it and reserve 1 cup of pasta water. \n6. Add the cooked pasta to the skillet with the pancetta and toss to combine. \n7. Remove the skillet from heat and pour the egg mixture over the pasta. \n8. Toss the pasta with the egg mixture until the eggs are cooked and the sauce is creamy, adding reserved pasta water as needed to thin the sauce. \n9. Serve immediately and enjoy!",
+        "rating": 4.8
+    },
+    {
+        "id": 26,
+        "name": "Torta della Nonna",
+        "description": "A traditional Italian dessert made with pastry cream and pine nuts.",
+        "image": "https://www.giallozafferano.it/images/167-16720/Torta-della-nonna_650x433_wm.jpg",
+        "ingredients": [
+            "pastry dough",
+            "pastry cream",
+            "pine nuts",
+            "sugar",
+            "honey"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "45 minutes",
+        "cooking_method": "1. Preheat the oven to 350°F (180°C).\n2. Roll out the pastry dough on a floured surface and line a 9-inch (23-cm) pie dish.\n3. Prick the bottom of the pastry with a fork.\n4. Cover with parchment paper and fill the pie dish with baking weights or dried beans and bake for 10-15 minutes, until lightly golden.\n5. Remove the weights and parchment paper and let the pastry cool.\n6. In a saucepan, heat the pastry cream with half of the pine nuts until warm.\n7. Spread the warm pastry cream onto the cooled pastry.\n8. In a bowl, mix together the remaining pine nuts, sugar, and honey.\n9. Sprinkle the pine nut mixture over the pastry cream.\n10. Bake for 20-25 minutes, until the pine nuts are golden brown.\n11. Let the torta della nonna cool to room temperature before serving.\n12. Enjoy!",
+        "rating": 4.7
+    },
+    {
+        "id": 27,
+        "name": "Veal Scaloppine",
+        "description": "A classic Italian dish made with thinly sliced veal, mushrooms, and white wine sauce.",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/3/25/2/RF0608H_Veal-Scallopine-with-Mushroom-Marsala-Sauce_s4x3.jpg.rend.hgtvcom.616.462.suffix/1462303201704.jpeg",
+        "ingredients": [
+            "veal",
+            "flour",
+            "mushrooms",
+            "butter",
+            "white wine",
+            "chicken broth"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "20 minutes",
+        "cooking_method": "1. Season the veal with salt and pepper and dredge it in flour, shaking off any excess.\n2. In a large skillet, melt the butter over medium-high heat. Add the veal and cook until browned on both sides, about 2-3 minutes per side. Remove the veal from the skillet and set it aside.\n3. Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5-6 minutes.\n4. Pour in the white wine and chicken broth and bring to a simmer. Cook for about 5-7 minutes or until the sauce has reduced by half.\n5. Return the veal to the skillet and cook for an additional 2-3 minutes, or until heated through.\n6. Serve the veal with the mushroom sauce spooned over the top.",
+        "rating": 4.2
+    },
+    {
+        "id": 28,
+        "name": "Fettuccine Alfredo",
+        "description": "A classic Italian pasta dish made with fettuccine noodles and a creamy Parmesan sauce.",
+        "ingredients": [
+            "fettuccine",
+            "heavy cream",
+            "butter",
+            "Parmesan cheese",
+            "garlic"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "cooking_method": "1. Cook the fettuccine according to package instructions until al dente, then drain and set aside. \n2. In a large saucepan, melt the butter over medium heat. Add the garlic and cook for about 1 minute, or until fragrant. \n3. Add the heavy cream to the saucepan and bring to a simmer, stirring constantly. Cook for 2-3 minutes or until the sauce has thickened slightly. \n4. Gradually add the Parmesan cheese to the sauce, stirring constantly until it has melted and the sauce is smooth. \n5. Add the cooked fettuccine to the saucepan and toss until the noodles are evenly coated with the sauce. \n6. Serve hot, garnished with additional Parmesan cheese and black pepper to taste.",
+        "rating": 4.5,
+        "image": "https://i2.wp.com/snappygourmet.com/wp-content/uploads/2019/02/How-to-make-fettuccine-alfredo-2a-wm.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Bruschetta",
+        "description": "A classic Italian appetizer made with grilled bread, tomatoes, and garlic.",
+        "ingredients": [
+            "bread",
+            "tomatoes",
+            "garlic",
+            "olive oil",
+            "basil"
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "10 minutes",
+        "image": "https://www.allrecipes.com/thmb/QSsjryxShEx1L6o0HLer1Nn4jwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/54165-balsamic-bruschetta-DDMFS-4x3-e2b55b5ca39b4c1783e524a2461634ea.jpg",
+        "cooking_method": "Grilling or toasting bread, and mixing the tomatoes, garlic, olive oil, and basil.",
+        "rating": 4.5
+    },
+    {
+        "id": 30,
+        "name": "Tiramisu",
+        "description": "A classic Italian dessert made with layers of ladyfingers, coffee, mascarpone cheese, and cocoa powder.",
+        "ingredients": [
+            "ladyfingers",
+            "coffee",
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "cocoa powder"
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "0 minutes",
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/04/07/21412-tiramisu-ii-3x2-119.jpg",
+        "cooking_method": "1. In a mixing bowl, beat the egg yolks and sugar until pale and thick.\n2. Add the mascarpone cheese to the egg yolk mixture and beat until smooth.\n3. In a separate bowl, beat the egg whites until stiff peaks form.\n4. Gently fold the egg whites into the mascarpone mixture.\n5. Dip the ladyfingers in coffee and layer them in a dish.\n6. Spread the mascarpone mixture on top of the ladyfingers.\n7. Repeat layers of ladyfingers and mascarpone mixture until all ingredients are used.\n8. Cover and chill in the refrigerator for at least 2 hours.\n9. Sprinkle with cocoa powder before serving.",
+        "rating": 4.5
+    }
+]
